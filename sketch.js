@@ -1,3 +1,7 @@
+//Amish Ranpariya
+//May 4,2020
+//javascript,p5.js
+
 var x, y, sx,
   sy,
   r = 25;
