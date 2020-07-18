@@ -29,5 +29,4 @@ function draw() {
   //adding the speed every frame
   x += sx;
   y += sy;
-
 }
